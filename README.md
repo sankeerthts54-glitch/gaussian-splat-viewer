@@ -2,9 +2,7 @@
 
 > **Real-world scene reconstruction using photogrammetry + neural rendering, viewable live in the browser.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=for-the-badge)](https://sankeerthts54-glitch.github.io/gaussian-splat-viewer/)
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsankeerthts54-glitch%2Fgaussian-splat-viewer)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sankeerthts54-glitch/gaussian-splat-viewer)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://gaussian-splat-viewer-27lg.vercel.app/)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python)](https://python.org)
 [![CUDA](https://img.shields.io/badge/CUDA-11.8+-76B900?style=flat&logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
