@@ -2,7 +2,7 @@
 
 > **Real-world scene reconstruction using photogrammetry + neural rendering, viewable live in the browser.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://gaussian-splat-viewer-27lg.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://gaussian-splat-viewer-kmk1.vercel.app/)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python)](https://python.org)
 [![CUDA](https://img.shields.io/badge/CUDA-11.8+-76B900?style=flat&logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
