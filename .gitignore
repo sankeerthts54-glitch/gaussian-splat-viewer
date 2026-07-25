@@ -1,0 +1,31 @@
+# Directories with large binary outputs — do not commit these
+data/
+outputs/
+exports/
+raw_footage/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Splat files are too large for regular git — use Git LFS or CDN
+viewer/splats/*.ksplat
+viewer/splats/*.ply
+
+# nerfstudio artifacts
+wandb/
+lightning_logs/
+
+# Python environments
+.venv/
+*.egg-info/
+
+# Node modules (for the ply converter)
+node_modules/
+package-lock.json
+
+# Cloned GaussianSplats3D repo (used only for ply conversion, not needed in repo)
+GaussianSplats3D/
+
+# Temporary files
+dump.mjs
+cuda-keyring_1.1-1_all.deb

@@ -1,0 +1,13 @@
+# Core pipeline dependencies
+opencv-python>=4.8.0     # blur detection in frame extraction
+numpy>=1.24.0            # array ops
+
+# nerfstudio and its deps are installed separately (see docs/wsl2_setup.md)
+# because they require CUDA-specific torch builds:
+#   pip install torch==2.1.2 torchvision==0.16.2 --index-url https://download.pytorch.org/whl/cu121
+#   pip install nerfstudio
+#   pip install git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+
+# Utilities
+tqdm>=4.65.0             # progress bars
+Pillow>=10.0.0           # image I/O
